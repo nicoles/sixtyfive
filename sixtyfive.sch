@@ -2725,7 +2725,7 @@ Col7
 Text GLabel 28150 17000 0    50   Input ~ 0
 Col8
 Text GLabel 28150 16900 0    50   Input ~ 0
-Extra1
+Extra12
 Text GLabel 28150 16700 0    50   Input ~ 0
 Col5
 Text GLabel 28150 16600 0    50   Input ~ 0
@@ -2735,21 +2735,21 @@ Row5
 Text GLabel 28150 17300 0    50   Input ~ 0
 Col9
 Text GLabel 28150 17600 0    50   Input ~ 0
-Extra2
+Extra5
 Text GLabel 28150 17500 0    50   Input ~ 0
 Row4
 Text GLabel 28150 17800 0    50   Input ~ 0
-Extra4
-Text GLabel 28150 17700 0    50   Input ~ 0
 Extra3
+Text GLabel 28150 17700 0    50   Input ~ 0
+Extra4
 Text GLabel 28150 18000 0    50   Input ~ 0
-Row1
+Extra1
 Text GLabel 28150 17900 0    50   Input ~ 0
-Extra5
+Extra2
 Text GLabel 28150 18200 0    50   Input ~ 0
-Extra6
-Text GLabel 28150 18100 0    50   Input ~ 0
 Row2
+Text GLabel 28150 18100 0    50   Input ~ 0
+Row1
 Text GLabel 28150 18400 0    50   Input ~ 0
 Extra13
 Text GLabel 28150 18300 0    50   Input ~ 0
@@ -2827,7 +2827,7 @@ Extra9
 Text GLabel 29650 18300 2    50   Input ~ 0
 Extra11
 Text GLabel 29650 18800 2    50   Input ~ 0
-Extra12
+Extra6
 Wire Wire Line
 	29650 17300 29500 17300
 Wire Wire Line
