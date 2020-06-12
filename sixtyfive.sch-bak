@@ -2725,7 +2725,7 @@ Col7
 Text GLabel 28150 17000 0    50   Input ~ 0
 Col8
 Text GLabel 28150 16900 0    50   Input ~ 0
-Extra6
+Extra12
 Text GLabel 28150 16700 0    50   Input ~ 0
 Col5
 Text GLabel 28150 16600 0    50   Input ~ 0
@@ -2827,7 +2827,7 @@ Extra9
 Text GLabel 29650 18300 2    50   Input ~ 0
 Extra11
 Text GLabel 29650 18800 2    50   Input ~ 0
-Extra12
+Extra6
 Wire Wire Line
 	29650 17300 29500 17300
 Wire Wire Line

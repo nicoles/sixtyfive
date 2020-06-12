@@ -2653,7 +2653,7 @@ U 1 1 5F4F806F
 P 22000 20850
 F 0 "J2" H 21557 20896 50  0000 R CNN
 F 1 "Conn_ARM_JTAG_SWD_10" H 21557 20805 50  0000 R CNN
-F 2 "" H 22000 20850 50  0001 C CNN
+F 2 "sixtyfive:Conn_ARM_JTAG_SWD_10" H 22000 20850 50  0001 C CNN
 F 3 "http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf" V 21650 19600 50  0001 C CNN
 	1    22000 20850
 	1    0    0    -1  
@@ -2725,7 +2725,7 @@ Col7
 Text GLabel 28150 17000 0    50   Input ~ 0
 Col8
 Text GLabel 28150 16900 0    50   Input ~ 0
-Extra12
+Extra13
 Text GLabel 28150 16700 0    50   Input ~ 0
 Col5
 Text GLabel 28150 16600 0    50   Input ~ 0
@@ -2751,17 +2751,17 @@ Row2
 Text GLabel 28150 18100 0    50   Input ~ 0
 Row1
 Text GLabel 28150 18400 0    50   Input ~ 0
-Extra13
+Extra12
 Text GLabel 28150 18300 0    50   Input ~ 0
 Row3
 Text GLabel 28150 18600 0    50   Input ~ 0
-Extra7
+Extra11
 Text GLabel 28150 18500 0    50   Input ~ 0
 Col1
 Text GLabel 28150 18800 0    50   Output ~ 0
 RGB_3V3
 Text GLabel 28150 18700 0    50   Input ~ 0
-Extra8
+Extra10
 Wire Wire Line
 	28150 18800 28200 18800
 Wire Wire Line
@@ -2821,11 +2821,11 @@ Col12
 Text GLabel 29650 17900 2    50   Input ~ 0
 Col11
 Text GLabel 29650 18200 2    50   Input ~ 0
-Extra10
+Extra8
 Text GLabel 29650 18100 2    50   Input ~ 0
 Extra9
 Text GLabel 29650 18300 2    50   Input ~ 0
-Extra11
+Extra7
 Text GLabel 29650 18800 2    50   Input ~ 0
 Extra6
 Wire Wire Line
@@ -3045,7 +3045,7 @@ U 1 1 602C428B
 P 20300 19250
 F 0 "SW1" V 20346 19202 50  0000 R CNN
 F 1 "SW_Push" V 20255 19202 50  0000 R CNN
-F 2 "" H 20300 19450 50  0001 C CNN
+F 2 "sixtyfive:smdPushBtn" H 20300 19450 50  0001 C CNN
 F 3 "~" H 20300 19450 50  0001 C CNN
 	1    20300 19250
 	0    -1   -1   0   
