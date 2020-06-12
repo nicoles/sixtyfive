@@ -1,4 +1,4 @@
-18826354271587046
+18829538166446614
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -82921,3 +82921,17 @@ breakaway-mousebites
 0
 0
 0
+sixtyfive
+Conn_ARM_JTAG_SWD_10
+Through hole straight pin header, 1x14, 2.54mm pitch, single row
+Through hole pin header THT 1x14 2.54mm single row
+0
+10
+10
+sixtyfive
+smdPushBtn
+ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, Without stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAEE010.html
+SPST Button Switch
+0
+4
+2
