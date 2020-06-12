@@ -2721,23 +2721,23 @@ Wire Wire Line
 Wire Wire Line
 	28150 18500 28200 18500
 Text GLabel 28150 17100 0    50   Input ~ 0
-Col8
-Text GLabel 28150 17000 0    50   Input ~ 0
 Col7
+Text GLabel 28150 17000 0    50   Input ~ 0
+Col8
 Text GLabel 28150 16900 0    50   Input ~ 0
 Extra1
 Text GLabel 28150 16700 0    50   Input ~ 0
-Col6
-Text GLabel 28150 16600 0    50   Input ~ 0
 Col5
+Text GLabel 28150 16600 0    50   Input ~ 0
+Col6
 Text GLabel 28150 17400 0    50   Input ~ 0
-Col10
+Row5
 Text GLabel 28150 17300 0    50   Input ~ 0
 Col9
 Text GLabel 28150 17600 0    50   Input ~ 0
 Extra2
 Text GLabel 28150 17500 0    50   Input ~ 0
-Col11
+Row4
 Text GLabel 28150 17800 0    50   Input ~ 0
 Extra4
 Text GLabel 28150 17700 0    50   Input ~ 0
@@ -2751,7 +2751,7 @@ Extra6
 Text GLabel 28150 18100 0    50   Input ~ 0
 Row2
 Text GLabel 28150 18400 0    50   Input ~ 0
-Row4
+Extra13
 Text GLabel 28150 18300 0    50   Input ~ 0
 Row3
 Text GLabel 28150 18600 0    50   Input ~ 0
@@ -2759,7 +2759,7 @@ Extra7
 Text GLabel 28150 18500 0    50   Input ~ 0
 Col1
 Text GLabel 28150 18800 0    50   Output ~ 0
-RGB3V3
+RGB_3V3
 Text GLabel 28150 18700 0    50   Input ~ 0
 Extra8
 Wire Wire Line
@@ -2773,7 +2773,7 @@ Wire Wire Line
 Wire Wire Line
 	28150 18300 28200 18300
 Text GLabel 29650 17600 2    50   Input ~ 0
-Row5
+Col14
 Wire Wire Line
 	29500 17600 29650 17600
 Wire Wire Line
@@ -2813,13 +2813,13 @@ Col3
 Text GLabel 29650 17500 2    50   Input ~ 0
 Col2
 Text GLabel 29650 18000 2    50   Input ~ 0
-Col12
+Col10
 Text GLabel 29650 17700 2    50   Input ~ 0
-Col14
-Text GLabel 29650 17800 2    50   Input ~ 0
 Col13
-Text GLabel 29650 17900 2    50   Output ~ 0
-LED_PWM
+Text GLabel 29650 17800 2    50   Input ~ 0
+Col12
+Text GLabel 29650 17900 2    50   Input ~ 0
+Col11
 Text GLabel 29650 18200 2    50   Input ~ 0
 Extra10
 Text GLabel 29650 18100 2    50   Input ~ 0
@@ -2908,7 +2908,7 @@ Extra11
 Wire Wire Line
 	23200 18700 23350 18700
 Text GLabel 23200 18700 0    50   Input ~ 0
-Extra11
+Extra12
 $Comp
 L Transistor_BJT:DTC123J QRST1
 U 1 1 600CA289
@@ -4113,6 +4113,4 @@ Connection ~ 22900 13900
 Wire Wire Line
 	24650 13900 25250 13900
 Connection ~ 25250 13900
-Wire Wire Line
-	25250 13900 24650 13900
 $EndSCHEMATC
