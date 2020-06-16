@@ -1,4 +1,4 @@
-update=6/11/2020 8:02:17 PM
+update=6/14/2020 9:55:06 PM
 version=1
 last_client=kicad
 [general]
@@ -256,6 +256,17 @@ Clearance=0.2
 TrackWidth=0.5
 ViaDiameter=0.8
 ViaDrill=0.4
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/2]
+Name=Switch
+Clearance=0.2
+TrackWidth=0.25
+ViaDiameter=0.5
+ViaDrill=0.3
 uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.2
