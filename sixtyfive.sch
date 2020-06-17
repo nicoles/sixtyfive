@@ -160,9 +160,9 @@ Connection ~ 24850 17000
 NoConn ~ 24800 18000
 NoConn ~ 24800 17400
 Text GLabel 25100 17700 2    50   BiDi ~ 0
-DBus+
+D+
 Text GLabel 25100 17600 2    50   BiDi ~ 0
-DBus-
+D-
 Wire Wire Line
 	24800 17600 24950 17600
 Wire Wire Line
@@ -2654,20 +2654,12 @@ Wire Wire Line
 	19650 16250 19650 16150
 Text GLabel 19050 15750 0    50   BiDi ~ 0
 D+
-Text GLabel 19050 15550 0    50   BiDi ~ 0
-D-
 Text GLabel 20250 15750 2    50   BiDi ~ 0
-DBus-
-Text GLabel 20250 15550 2    50   BiDi ~ 0
-DBus+
+D-
 Wire Wire Line
 	20150 15750 20250 15750
 Wire Wire Line
-	19050 15550 19150 15550
-Wire Wire Line
 	19150 15750 19050 15750
-Wire Wire Line
-	20250 15550 20150 15550
 $Comp
 L power:GNDD #PWR0142
 U 1 1 60FCBC4B
@@ -3693,4 +3685,6 @@ Wire Wire Line
 Connection ~ 24050 20850
 Wire Wire Line
 	24050 20850 24450 20850
+NoConn ~ 20150 15550
+NoConn ~ 19150 15550
 $EndSCHEMATC

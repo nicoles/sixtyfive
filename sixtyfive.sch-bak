@@ -160,9 +160,9 @@ Connection ~ 24850 17000
 NoConn ~ 24800 18000
 NoConn ~ 24800 17400
 Text GLabel 25100 17700 2    50   BiDi ~ 0
-DBus+
+D+
 Text GLabel 25100 17600 2    50   BiDi ~ 0
-DBus-
+D-
 Wire Wire Line
 	24800 17600 24950 17600
 Wire Wire Line
@@ -2657,9 +2657,9 @@ D+
 Text GLabel 19050 15550 0    50   BiDi ~ 0
 D-
 Text GLabel 20250 15750 2    50   BiDi ~ 0
-DBus-
+D-
 Text GLabel 20250 15550 2    50   BiDi ~ 0
-DBus+
+D+
 Wire Wire Line
 	20150 15750 20250 15750
 Wire Wire Line
@@ -3682,7 +3682,7 @@ U 1 1 5F28F23A
 P 24050 21000
 F 0 "DF1" H 24050 21217 50  0000 C CNN
 F 1 "P6SMB6.8CA" H 24050 21126 50  0000 C CNN
-F 2 "Diode_SMD:D_SMB" H 24050 20825 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 24050 20825 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/Brightking-Elec-TAIWAN-P6SMB6-8CA_C78395.pdf" H 24050 21000 50  0001 C CNN
 F 4 "C78395" H 24050 21000 50  0001 C CNN "JLCCode"
 	1    24050 21000
